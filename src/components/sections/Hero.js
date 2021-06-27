@@ -72,8 +72,8 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="https://github.com/neeraj0403/Real-Time-Translator/raw/main/app-debug.apk">
                     Download the APK
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/neeraj0403/Real-Time-Translator" target="_blank">
-                    View on Github
+                  <Button tag="a" color="dark" wideMobile href="https://addqrcodetovideo.herokuapp.com/" target="_blank">
+                    Add Notes to your video
                     </Button>
                 </ButtonGroup>
               </div>
